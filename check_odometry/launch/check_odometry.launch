@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="node_odometry" type="check_odom.py" name="check_odometry" output="screen" />
+<launch>
